@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Programming Challenge", "Programming Challenge\Programming Challenge.vcxproj", "{E12D4CB5-2526-462F-AE80-E5D49F8B395E}"
 EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
